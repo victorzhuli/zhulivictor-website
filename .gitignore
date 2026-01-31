@@ -1,0 +1,9 @@
+# Hugo build output
+public/
+resources/
+
+# Local Netlify folder
+.netlify
+
+# OS files
+.DS_Store
