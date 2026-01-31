@@ -392,6 +392,27 @@ main {
   font-size: 0.9rem;
 }
 
+.publication-venue a {
+  display: inline-block;
+  font-style: normal;
+  font-size: 0.8rem;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  color: white;
+  background: var(--color-link);
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.publication-venue a:hover {
+  background: var(--color-link-hover);
+  color: white;
+  border-bottom: none;
+}
+
 /* Timeline (Education, Work Experience) */
 .timeline {
   position: relative;
