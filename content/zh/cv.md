@@ -20,7 +20,7 @@ subtitle = "朱立 博士"
 <li><strong>无袖带血压监测：</strong>主导基于耳戴式光电容积脉搏波（PPG）与惯性传感器的机器学习血压估计算法研发</li>
 <li><strong>非接触式生命体征监测：</strong>开发基于面部视频的心率、呼吸率和血氧饱和度估计模型（rPPG技术）</li>
 <li><strong>房颤负荷评估：</strong>主导智能手表心房颤动监测项目，成果发表于 IEEE JBHI 并被选为封面论文</li>
-<li><strong>神经调控技术：</strong>主导耳机形态经皮迷走神经刺激（tVNS）系统研发，用于压力监测与干预</li>
+<li><strong>神经调控技术：</strong>主导耳机形态经皮迷走神经刺激（taVNS）系统研发，用于压力监测与干预</li>
 </ul>
 </div>
 
