@@ -1,8 +1,15 @@
 # Li Zhu - Personal Website
 
-Personal academic website for Li Zhu, Staff Research Engineer II at Samsung Research America.
+Personal academic website for Li Zhu (朱立), Digital Health Researcher & AI Innovator.
 
 **Live site**: https://zhulivictor.com
+
+## Features
+
+- Bilingual support (English / 中文)
+- Google Analytics tracking
+- Responsive design
+- Auto-deployment via Netlify
 
 ## Tech Stack
 
@@ -15,12 +22,20 @@ Personal academic website for Li Zhu, Staff Research Engineer II at Samsung Rese
 
 ```
 hugo-site/
-├── content/           # Page content (Markdown)
+├── content/           # English content (Markdown)
 │   ├── _index.md      # Home page
 │   ├── cv.md          # Curriculum Vitae
 │   ├── publications.md
 │   ├── research.md
+│   ├── teaching.md
 │   └── contact.md
+├── content/zh/        # Chinese content
+│   ├── _index.md
+│   ├── cv.md
+│   └── ...
+├── i18n/              # UI translations
+│   ├── en.yaml
+│   └── zh.yaml
 ├── themes/elegant/    # Custom theme
 │   ├── assets/css/    # Stylesheets
 │   ├── layouts/       # HTML templates
@@ -51,9 +66,11 @@ git commit -m "Description of changes"
 git push
 ```
 
-## Documentation
+## Updating Content
 
-See [WEBSITE_GUIDE.md](WEBSITE_GUIDE.md) for detailed maintenance instructions.
+When editing pages, update both language versions:
+- English: `content/<page>.md`
+- Chinese: `content/zh/<page>.md`
 
 ## License
 

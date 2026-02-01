@@ -1,7 +1,7 @@
 # CLAUDE.md - Project Intelligence
 
 ## Project Overview
-Personal academic website for Li Zhu using Hugo static site generator, deployed on Netlify.
+Personal academic website for Li Zhu (朱立) using Hugo static site generator, deployed on Netlify.
 
 ## Key Commands
 ```bash
@@ -24,13 +24,25 @@ git add -A && git commit -m "message" && git push
   - `layouts/` - HTML templates
   - `layouts/_default/` - Default templates (single.html, baseof.html)
   - `layouts/partials/` - Reusable components (NOT `_partials`)
+    - `head.html` - Contains Google Analytics tracking code
 
 ## Multilingual Support
 - **English** (default): `/`, `/cv`, `/publications`, etc.
 - **Chinese**: `/zh/`, `/zh/cv`, `/zh/publications`, etc.
+- Chinese name: 朱立 (not 朱礼)
 - Language switcher in header navigation
 - When updating content, **update both English and Chinese versions**
 - Translation files in `i18n/` for UI strings
+
+## Content Guidelines
+- Site branding: "Digital Health Researcher & AI Innovator" (no employer in tagline)
+- CV employment history: Keep formal titles with employer names
+- Chinese job titles: Use 硬件工程师 (not 电气工程师) for hardware roles
+
+## Analytics
+- Google Analytics 4: Measurement ID `G-NTFWW409R9`
+- Tracking code in `themes/elegant/layouts/partials/head.html`
+- Dashboard: https://analytics.google.com
 
 ## Critical Gotchas
 
@@ -62,7 +74,7 @@ git add -A && git commit -m "message" && git push
 - Header wraps on mobile, so main needs larger margin-top (130px)
 
 ## URLs
-- Live: https://zhulivictor.com
+- Live: https://zhulivictor.com (www redirects to non-www)
 - Netlify: https://coruscating-pudding-876c7a.netlify.app
 - GitHub: https://github.com/victorzhuli/zhulivictor-website (private)
 
