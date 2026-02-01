@@ -16,12 +16,21 @@ git add -A && git commit -m "message" && git push
 ```
 
 ## Project Structure
-- `content/` - Markdown pages (_index.md, cv.md, publications.md, etc.)
+- `content/` - English markdown pages (_index.md, cv.md, publications.md, etc.)
+- `content/zh/` - Chinese markdown pages (translated versions)
+- `i18n/` - UI translation strings (en.yaml, zh.yaml)
 - `themes/elegant/` - Custom theme
   - `assets/css/main.css` - All styling
   - `layouts/` - HTML templates
   - `layouts/_default/` - Default templates (single.html, baseof.html)
   - `layouts/partials/` - Reusable components (NOT `_partials`)
+
+## Multilingual Support
+- **English** (default): `/`, `/cv`, `/publications`, etc.
+- **Chinese**: `/zh/`, `/zh/cv`, `/zh/publications`, etc.
+- Language switcher in header navigation
+- When updating content, **update both English and Chinese versions**
+- Translation files in `i18n/` for UI strings
 
 ## Critical Gotchas
 

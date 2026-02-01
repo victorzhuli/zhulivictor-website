@@ -1,38 +1,84 @@
 baseURL = 'https://www.zhulivictor.com/'
-languageCode = 'en-us'
 title = 'Li Zhu, Ph.D.'
 theme = 'elegant'
 
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    weight = 1
+    title = 'Li Zhu, Ph.D.'
+    [languages.en.params]
+      author = "Li Zhu"
+      description = "Digital Health Researcher & AI Innovator"
+      profileImage = "/images/profile.png"
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "CV"
+      url = "/cv/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Research"
+      url = "/research/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Publications"
+      url = "/publications/"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "Teaching"
+      url = "/teaching/"
+      weight = 5
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 6
+
+  [languages.zh]
+    languageCode = 'zh-CN'
+    languageName = '中文'
+    weight = 2
+    title = '朱立 博士'
+    contentDir = 'content/zh'
+    [languages.zh.params]
+      author = "朱立"
+      description = "数字健康研究员 & AI创新者"
+      profileImage = "/images/profile.png"
+    [[languages.zh.menu.main]]
+      name = "首页"
+      url = "/zh/"
+      weight = 1
+    [[languages.zh.menu.main]]
+      name = "简历"
+      url = "/zh/cv/"
+      weight = 2
+    [[languages.zh.menu.main]]
+      name = "研究"
+      url = "/zh/research/"
+      weight = 3
+    [[languages.zh.menu.main]]
+      name = "论文"
+      url = "/zh/publications/"
+      weight = 4
+    [[languages.zh.menu.main]]
+      name = "教学"
+      url = "/zh/teaching/"
+      weight = 5
+    [[languages.zh.menu.main]]
+      name = "联系"
+      url = "/zh/contact/"
+      weight = 6
+
 [params]
   author = "Li Zhu"
-  description = "Staff Research Engineer II at Samsung Research America"
+  description = "Digital Health Researcher & AI Innovator"
   profileImage = "/images/profile.png"
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "CV"
-    url = "/cv/"
-    weight = 2
-  [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 3
-  [[menu.main]]
-    name = "Publications"
-    url = "/publications/"
-    weight = 4
-  [[menu.main]]
-    name = "Teaching"
-    url = "/teaching/"
-    weight = 5
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 6
 
 [markup]
   [markup.goldmark]

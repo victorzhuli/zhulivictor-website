@@ -111,17 +111,15 @@ Advisor: Professor Laleh Najafizadeh</p>
 ## Skills
 
 <div class="tags">
-<span class="tag">Python</span>
-<span class="tag">MATLAB</span>
 <span class="tag">Machine Learning</span>
 <span class="tag">Deep Learning</span>
-<span class="tag">Signal Processing</span>
-<span class="tag">TensorFlow</span>
 <span class="tag">PyTorch</span>
-<span class="tag">PPG/ECG Analysis</span>
+<span class="tag">TensorFlow</span>
+<span class="tag">Python</span>
 <span class="tag">Computer Vision</span>
+<span class="tag">Signal Processing</span>
+<span class="tag">PPG/ECG Analysis</span>
 <span class="tag">Wearable Sensors</span>
-<span class="tag">Clinical Validation</span>
 <span class="tag">fNIRS</span>
 <span class="tag">EEG</span>
 </div>

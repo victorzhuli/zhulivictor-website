@@ -1,6 +1,6 @@
 <div class="header-inner">
   <h1 class="site-title">
-    <a href="{{ "/" | relURL }}">{{ site.Title }}</a>
+    <a href="{{ "/" | relLangURL }}">{{ site.Title }}</a>
   </h1>
   <nav>
     <ul>
@@ -11,6 +11,13 @@
           </a>
         </li>
       {{ end }}
+      <li class="lang-switch">
+        {{ if eq site.Language.Lang "en" }}
+          <a href="/zh/">中文</a>
+        {{ else }}
+          <a href="/">English</a>
+        {{ end }}
+      </li>
     </ul>
   </nav>
 </div>

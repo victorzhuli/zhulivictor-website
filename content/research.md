@@ -6,23 +6,22 @@ subtitle = "Research Experience & Key Projects"
 ## Research Interests
 
 <div class="tags">
-  <span class="tag">Wearable Health Sensing</span>
-  <span class="tag">Biomedical Signal Processing</span>
   <span class="tag">Machine Learning</span>
   <span class="tag">Deep Learning</span>
   <span class="tag">Computer Vision</span>
-  <span class="tag">Clinical Validation</span>
+  <span class="tag">Biomedical Signal Processing</span>
+  <span class="tag">Wearable Health Sensing</span>
   <span class="tag">Neuroimaging</span>
   <span class="tag">Brain-Computer Interface</span>
 </div>
 
 ---
 
-## Current Research at Samsung Research America
+## Current Research
 
-**Staff Research Engineer II** | Digital Health Lab | 2019 – Present
+**Digital Health Lab** | 2019 – Present
 
-Leading AI-driven innovation at the intersection of wearable sensing and real-world health monitoring.
+Applying machine learning and deep learning to wearable sensing and health monitoring.
 
 <div class="card-grid">
 
@@ -70,4 +69,4 @@ Developed computational methods for predicting behavior from neuroimaging data:
 - **45+ publications** at top-tier venues (IEEE, ACM, OSA)
 - **15+ patents** filed in wearable health sensing
 - **IEEE JBHI Cover Feature** (2023) for AFib research
-- **Multiple Samsung company-wide awards** for innovation in health sensing and biosignal foundation models
+- **Multiple company-wide awards** for innovation in health sensing and biosignal foundation models
