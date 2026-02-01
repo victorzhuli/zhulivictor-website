@@ -49,7 +49,7 @@ subtitle = "朱立 博士"
 <div class="timeline-date">2008 – 2013</div>
 <h3 class="timeline-title">硬件研发经理</h3>
 <div class="timeline-subtitle">冠德科技有限公司，深圳</div>
-<p>负责专业级数字音视频分发系统的系统架构设计与研发工作，管理20余人的跨学科研发团队。</p>
+<p>负责专业级数字音视频分发系统的系统架构设计与研发工作，管理20余人的跨领域研发团队。</p>
 </div>
 
 <div class="timeline-item">
