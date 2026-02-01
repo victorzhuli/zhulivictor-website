@@ -64,7 +64,7 @@ subtitle = "45+ 论文 | 15+ 专利"
 <div class="publication">
 <div class="publication-title">[C2] HiMAE: Hierarchical masked autoencoders discover resolution-specific structure in wearable time series</div>
 <div class="publication-authors">S. Lee, C. Tanade, H. Zhou, J. Lee, M. Thukral, M. Han, R. Choi, <strong>Li Zhu</strong>, et al.</div>
-<div class="publication-venue">arXiv preprint arXiv:2510.25785, 2025 <a href="https://arxiv.org/abs/2510.25785" target="_blank">[论文]</a></div>
+<div class="publication-venue">International Conference on Learning Representations (ICLR), 2026 <a href="https://arxiv.org/abs/2510.25785" target="_blank">[论文]</a></div>
 </div>
 
 <div class="publication">
