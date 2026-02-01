@@ -56,7 +56,7 @@ subtitle = "朱立 博士"
 <div class="timeline-date">2004 – 2008</div>
 <h3 class="timeline-title">硬件工程师</h3>
 <div class="timeline-subtitle">创维集团研究院，深圳</div>
-<p>高清显示技术研究组——负责CRT及LCD电视整机硬件设计与开发。</p>
+<p>高清显示技术研究所——负责CRT及LCD电视整机硬件设计与开发。</p>
 </div>
 
 </div>
@@ -69,7 +69,7 @@ subtitle = "朱立 博士"
 
 <div class="timeline-item">
 <div class="timeline-date">2018年10月</div>
-<h3 class="timeline-title">博士，电气与计算机工程</h3>
+<h3 class="timeline-title">博士，电子与计算机工程</h3>
 <div class="timeline-subtitle">罗格斯大学（新泽西州立大学）</div>
 <p>论文：基于神经影像数据的行为预测计算方法<br>
 导师：Laleh Najafizadeh 教授</p>
@@ -101,7 +101,7 @@ subtitle = "朱立 博士"
 
 - **总裁奖** — 三星美国研究院（2020、2025）
 - **A1级专利发明人奖** — 三星美国研究院（2023、2024）
-- **研究生学术成就奖** — 罗格斯大学电气与计算机工程系（2020）
+- **研究生学术成就奖** — 罗格斯大学电子与计算机工程系（2020）
 - **最佳学生论文奖（亚军）** — IEEE ISCAS 2014，600余篇录用论文中脱颖而出
 - **青年研究员奖** — 创维集团研究院，300余名应届生中排名前十（2005）
 - **一等奖学金** — 武汉理工大学，全校万余名学生中排名前1%（2003-2004）
