@@ -42,7 +42,7 @@ subtitle = "朱立 博士"
 <div class="timeline-date">2013 – 2018</div>
 <h3 class="timeline-title">研究助理 / 助教</h3>
 <div class="timeline-subtitle">罗格斯大学，新泽西州</div>
-<p>集成系统与神经影像实验室——从事基于神经影像数据的行为预测算法研究。</p>
+<p>集成系统与神经影像实验室——从事基于多模态神经影像数据的认知神经科学预测算法研究。</p>
 </div>
 
 <div class="timeline-item">
