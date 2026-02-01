@@ -20,6 +20,7 @@ git add -A && git commit -m "message" && git push
 - `themes/elegant/` - Custom theme
   - `assets/css/main.css` - All styling
   - `layouts/` - HTML templates
+  - `layouts/_default/` - Default templates (single.html, baseof.html)
   - `layouts/partials/` - Reusable components (NOT `_partials`)
 
 ## Critical Gotchas
@@ -38,9 +39,18 @@ git add -A && git commit -m "message" && git push
 - Required for CV page timeline HTML structure
 
 ### Fixed Header
-- Uses `position: fixed` with `margin-top: 70px` on main
+- Uses `position: fixed` with `margin-top: 70px` on main (130px on mobile)
 - Header class is `.site-header` (not generic `header` selector)
 - `scroll-margin-top: 80px` on headings prevents anchor overlap
+
+### Hugo Page Templates
+- Page templates must be in `layouts/_default/single.html`
+- `layouts/page.html` at root level won't work for regular pages
+- Error: pages return 404 but home works = missing `_default/single.html`
+
+### Mobile Responsive
+- Profile image needs `display: block` for `margin: 0 auto` centering
+- Header wraps on mobile, so main needs larger margin-top (130px)
 
 ## URLs
 - Live: https://zhulivictor.com
