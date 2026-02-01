@@ -1,6 +1,6 @@
 +++
 title = "联系方式"
-subtitle = "欢迎联系"
+subtitle = "欢迎交流合作"
 +++
 
 <div class="contact-info">
@@ -16,7 +16,7 @@ subtitle = "欢迎联系"
 </div>
 
 <div class="contact-item">
-<span class="contact-label">网站</span>
+<span class="contact-label">个人网站</span>
 <a href="https://www.zhulivictor.com">www.zhulivictor.com</a>
 </div>
 
@@ -26,8 +26,8 @@ subtitle = "欢迎联系"
 </div>
 
 <div class="contact-item">
-<span class="contact-label">学术主页</span>
-<a href="https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en">Google Scholar Profile</a>
+<span class="contact-label">Google Scholar</span>
+<a href="https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en">学术主页</a>
 </div>
 
 </div>
@@ -36,4 +36,4 @@ subtitle = "欢迎联系"
 
 ## 所在地
 
-加州萨拉托加
+美国加州萨拉托加
