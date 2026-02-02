@@ -1,6 +1,6 @@
 +++
 title = "论文发表"
-subtitle = "45+ 论文 | 15+ 专利"
+subtitle = "50+ 论文 | 15+ 专利"
 +++
 
 [Google Scholar](https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en) | 引用次数：510 | h-index：12 | i10-index：15

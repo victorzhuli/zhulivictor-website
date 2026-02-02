@@ -66,7 +66,7 @@ Developed computational methods for predicting behavior from neuroimaging data:
 
 ## Impact & Recognition
 
-- **45+ publications** at top-tier venues (IEEE, ACM, OSA)
+- **50+ publications** at top-tier venues (IEEE, ACM, OSA)
 - **15+ patents** filed in wearable health sensing
 - **IEEE JBHI Cover Feature** (2023) for AFib research
 - **Multiple company-wide awards** for innovation in health sensing and biosignal foundation models

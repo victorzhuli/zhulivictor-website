@@ -1,7 +1,7 @@
 # CLAUDE.md - Project Intelligence
 
 ## Project Overview
-Personal academic website for Li Zhu (朱立) using Hugo static site generator, deployed on Netlify.
+Personal academic website for Li Zhu (朱立) using Hugo static site generator, deployed on GitHub Pages.
 
 ## Key Commands
 ```bash
@@ -50,10 +50,10 @@ git add -A && git commit -m "message" && git push
 - Must be named `partials/` NOT `_partials/`
 - Error: "partial head.html not found" means wrong directory name
 
-### Netlify Build
-- `public/` folder must be in `.gitignore` - Netlify builds fresh
-- Hugo version specified in `netlify.toml` (currently 0.121.0)
-- Local Hugo version may differ from Netlify's
+### GitHub Pages Build
+- `public/` folder must be in `.gitignore` - GitHub Actions builds fresh
+- Hugo version specified in `.github/workflows/hugo.yml` (currently 0.121.0)
+- Auto-deploys on push to `master` branch
 
 ### Raw HTML in Markdown
 - Enabled via `[markup.goldmark.renderer] unsafe = true` in hugo.toml
@@ -74,10 +74,16 @@ git add -A && git commit -m "message" && git push
 - Header wraps on mobile, so main needs larger margin-top (130px)
 
 ## URLs
-- Live: https://zhulivictor.com (www redirects to non-www)
-- Netlify: https://coruscating-pudding-876c7a.netlify.app
-- GitHub: https://github.com/victorzhuli/zhulivictor-website (private)
+- Live: https://zhulivictor.com and https://www.zhulivictor.com
+- GitHub: https://github.com/victorzhuli/zhulivictor-website (public)
+- GitHub Pages: victorzhuli.github.io/zhulivictor-website
 
 ## DNS (GoDaddy)
-- A record: @ → 75.2.60.5
-- CNAME: www → coruscating-pudding-876c7a.netlify.app
+- A records: @ → GitHub Pages IPs (185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153)
+- CNAME: www → victorzhuli.github.io
+
+## Deployment
+- Hosted on GitHub Pages (migrated from Netlify Jan 2026)
+- Custom domain configured via `static/CNAME` file
+- GitHub Actions workflow: `.github/workflows/hugo.yml`
+- SSL/HTTPS provided by GitHub (Let's Encrypt)

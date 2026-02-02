@@ -1,6 +1,6 @@
 +++
 title = "Publications"
-subtitle = "45+ Publications | 15+ Patents"
+subtitle = "50+ Publications | 15+ Patents"
 +++
 
 [Google Scholar](https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en) | Citations: 510 | h-index: 12 | i10-index: 15
