@@ -485,6 +485,88 @@ main {
   margin-bottom: var(--space-sm);
 }
 
+/* Research Impact Banner */
+.research-impact {
+  background: linear-gradient(135deg, var(--color-bg-alt) 0%, #f0ebe3 100%);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: var(--space-xl);
+  margin: var(--space-xl) 0;
+}
+
+.research-impact h2 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: var(--space-lg);
+  font-size: 1.5rem;
+}
+
+.research-impact h2::after {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.impact-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-lg);
+}
+
+.impact-item {
+  text-align: center;
+  padding: var(--space-md);
+}
+
+.impact-number {
+  font-family: var(--font-heading);
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  line-height: 1.1;
+  margin-bottom: var(--space-xs);
+}
+
+.impact-label {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
+.impact-sublabel {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--color-text-light);
+  margin-top: var(--space-xs);
+}
+
+@media (max-width: 768px) {
+  .impact-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-md);
+  }
+
+  .impact-number {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .impact-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .impact-number {
+    font-size: 1.75rem;
+  }
+
+  .impact-label {
+    font-size: 0.8rem;
+  }
+}
+
 /* Contact */
 .contact-info {
   background: var(--color-bg-alt);
