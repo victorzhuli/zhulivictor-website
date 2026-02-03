@@ -567,6 +567,111 @@ main {
   }
 }
 
+/* Featured Research Cards */
+.featured-research {
+  margin: var(--space-xxl) 0;
+}
+
+.featured-research > h2 {
+  text-align: center;
+  margin-bottom: var(--space-xl);
+}
+
+.featured-research > h2::after {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.research-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-lg);
+}
+
+.research-card {
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: var(--space-lg);
+  position: relative;
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.research-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 8px 30px rgba(139, 90, 43, 0.12);
+  transform: translateY(-3px);
+}
+
+.research-card.featured {
+  border-color: var(--color-accent);
+  background: linear-gradient(135deg, #fffdf9 0%, white 100%);
+}
+
+.research-card.featured::before {
+  content: 'IEEE JBHI Cover';
+  position: absolute;
+  top: 12px;
+  right: -32px;
+  background: var(--color-accent);
+  color: white;
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 4px 40px;
+  transform: rotate(45deg);
+}
+
+.research-card-icon {
+  font-size: 2rem;
+  margin-bottom: var(--space-sm);
+  display: block;
+}
+
+.research-card h3 {
+  font-size: 1.15rem;
+  margin: 0 0 var(--space-sm) 0;
+  color: var(--color-heading);
+  line-height: 1.4;
+}
+
+.research-card p {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-md) 0;
+  line-height: 1.6;
+}
+
+.research-card-meta {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-text-light);
+  border-top: 1px solid var(--color-border);
+  padding-top: var(--space-sm);
+  margin-top: auto;
+}
+
+.research-card-meta strong {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .research-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .research-card.featured::before {
+    font-size: 0.6rem;
+    padding: 3px 35px;
+    top: 10px;
+    right: -35px;
+  }
+}
+
 /* Contact */
 .contact-info {
   background: var(--color-bg-alt);

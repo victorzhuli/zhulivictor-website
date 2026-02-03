@@ -34,4 +34,39 @@ title = "朱立"
 </div>
 </div>
 
+<div class="featured-research">
+<h2>代表性研究</h2>
+<div class="research-cards">
+
+<div class="research-card featured">
+<span class="research-card-icon">&#9829;</span>
+<h3>心房颤动检测与负荷评估</h3>
+<p>基于智能手表的房颤持续监测算法，涵盖数据采集、算法开发、临床验证及产品部署全流程。</p>
+<div class="research-card-meta"><strong>3项专利</strong> &middot; IEEE JBHI 2021</div>
+</div>
+
+<div class="research-card">
+<span class="research-card-icon">&#128247;</span>
+<h3>非接触式生命体征监测</h3>
+<p>基于人工智能的算法，通过普通智能手机摄像头从面部视频中估测心率、呼吸频率和血氧饱和度。</p>
+<div class="research-card-meta"><strong>4项专利</strong> &middot; 美国专利 12,414,696</div>
+</div>
+
+<div class="research-card">
+<span class="research-card-icon">&#127994;</span>
+<h3>无创连续血压监测</h3>
+<p>基于机器学习的血压估测技术，利用耳戴式PPG和惯性传感器，在多款设备上完成临床验证。</p>
+<div class="research-card-meta"><strong>专利申请中</strong> &middot; IEEE EMBC 2025</div>
+</div>
+
+<div class="research-card">
+<span class="research-card-icon">&#129504;</span>
+<h3>神经影像与脑机接口</h3>
+<p>可视图分析与功能性近红外光谱（fNIRS）信号处理方法，用于从宽场经颅成像中解码大脑皮层状态。</p>
+<div class="research-card-meta"><strong>博士论文</strong> &middot; Neurophotonics, BOE</div>
+</div>
+
+</div>
+</div>
+
 [查看简历](/zh/cv/) | [LinkedIn](https://www.linkedin.com/in/victorlizhu/) | [Google Scholar](https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en)
