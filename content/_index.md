@@ -8,6 +8,30 @@ His research has been featured on the **IEEE JBHI journal cover**, and he has au
 
 He received his Ph.D. in Electrical and Computer Engineering from Rutgers University in 2018, where he developed computational methods for predicting behavior from neuroimaging data. Prior to his Ph.D., he spent nearly a decade in the consumer electronics industry in China, including five years leading a 20+ member multidisciplinary team in hardware design and product development.
 
-**Google Scholar:** Citations: 510 | h-index: 12 | i10-index: 15
+<div class="research-impact">
+<h2>Research Impact</h2>
+<div class="impact-grid">
+<div class="impact-item">
+<div class="impact-number">50+</div>
+<div class="impact-label">Publications</div>
+<div class="impact-sublabel">Journals & Conferences</div>
+</div>
+<div class="impact-item">
+<div class="impact-number">15+</div>
+<div class="impact-label">Patents</div>
+<div class="impact-sublabel">3 Granted, 12 Pending</div>
+</div>
+<div class="impact-item">
+<div class="impact-number">510+</div>
+<div class="impact-label">Citations</div>
+<div class="impact-sublabel">Google Scholar</div>
+</div>
+<div class="impact-item">
+<div class="impact-number">12</div>
+<div class="impact-label">h-index</div>
+<div class="impact-sublabel">i10-index: 15</div>
+</div>
+</div>
+</div>
 
 [View my CV](/cv/) | [LinkedIn](https://www.linkedin.com/in/victorlizhu/) | [Google Scholar](https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en)
