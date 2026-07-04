@@ -3,7 +3,7 @@ title = "个人简历"
 subtitle = "朱立 博士"
 +++
 
-**Google Scholar：** 被引510次 | h指数：12 | i10指数：15
+**Google Scholar：** 被引626次 | h指数：14 | i10指数：20
 
 ---
 

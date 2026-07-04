@@ -22,14 +22,14 @@ title = "朱立"
 <div class="impact-sublabel">3项授权，12项审核中</div>
 </div>
 <div class="impact-item">
-<div class="impact-number">510+</div>
+<div class="impact-number">626+</div>
 <div class="impact-label">被引次数</div>
 <div class="impact-sublabel">Google Scholar</div>
 </div>
 <div class="impact-item">
-<div class="impact-number">12</div>
+<div class="impact-number">14</div>
 <div class="impact-label">h指数</div>
-<div class="impact-sublabel">i10指数：15</div>
+<div class="impact-sublabel">i10指数：20</div>
 </div>
 </div>
 </div>
