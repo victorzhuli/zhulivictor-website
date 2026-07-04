@@ -22,14 +22,14 @@ He received his Ph.D. in Electrical and Computer Engineering from Rutgers Univer
 <div class="impact-sublabel">3 Granted, 12 Pending</div>
 </div>
 <div class="impact-item">
-<div class="impact-number">510+</div>
+<div class="impact-number">626+</div>
 <div class="impact-label">Citations</div>
 <div class="impact-sublabel">Google Scholar</div>
 </div>
 <div class="impact-item">
-<div class="impact-number">12</div>
+<div class="impact-number">14</div>
 <div class="impact-label">h-index</div>
-<div class="impact-sublabel">i10-index: 15</div>
+<div class="impact-sublabel">i10-index: 20</div>
 </div>
 </div>
 </div>

@@ -3,7 +3,7 @@ title = "Publications"
 subtitle = "50+ Publications | 15+ Patents"
 +++
 
-[Google Scholar](https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en) | Citations: 510 | h-index: 12 | i10-index: 15
+[Google Scholar](https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en) | Citations: 626 | h-index: 14 | i10-index: 20
 
 ---
 
@@ -56,229 +56,253 @@ subtitle = "50+ Publications | 15+ Patents"
 ## Conference Papers
 
 <div class="publication">
-<div class="publication-title">[C1] Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models</div>
+<div class="publication-title">[C1] Physiology-Aware Masked Cross-Modal Reconstruction for Biosignal Representation Learning</div>
+<div class="publication-authors">H. Zhou, S. Lee, C. Tanade, K. S. Chun, J. Lee, M. Gwak, M. Thukral, J. Sung, <strong>Li Zhu</strong>, et al.</div>
+<div class="publication-venue">International Conference on Machine Learning (ICML), 2026 <a href="https://arxiv.org/abs/2605.00973" target="_blank">[Paper]</a></div>
+</div>
+
+<div class="publication">
+<div class="publication-title">[C2] Contactless Human Oxygen Saturation Detection Using RGB Camera in an Induced Hypoxemia Study with Varied Skin Types</div>
+<div class="publication-authors"><strong>Li Zhu</strong>, M. Gwak, K. Vatanparvar, Q. Shao, S. Desai, J. Bae, J. Kuang, A. Gao</div>
+<div class="publication-venue">2026</div>
+</div>
+
+<div class="publication">
+<div class="publication-title">[C3] Towards Real-Time Acute Stress Management via Integrated Biosensing and Neurostimulation: A Closed-Loop Earbud Platform</div>
+<div class="publication-authors"><strong>Li Zhu</strong>, M. M. Rahman, W. Schuerman, M. K. Leonard, W. B. Mendes, et al.</div>
+<div class="publication-venue">IEEE GLOBECOM 2025, 3445-3450</div>
+</div>
+
+<div class="publication">
+<div class="publication-title">[C4] Classifying Physiological Stress Responses: Distinguishing Threat Versus Challenge Using Earbuds</div>
+<div class="publication-authors">M. M. Rahman, M. B. Morshed, <strong>Li Zhu</strong>, J. Zhou, W. B. Mendes, S. A. Desai</div>
+<div class="publication-venue">IEEE GLOBECOM 2025, 3432-3438</div>
+</div>
+
+<div class="publication">
+<div class="publication-title">[C5] Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models</div>
 <div class="publication-authors">M. Thukral, C. Tanade, S. Lee, J. Lee, H. Zhou, K. S. Chun, M. Gwak, <strong>Li Zhu</strong>, et al.</div>
 <div class="publication-venue">arXiv preprint arXiv:2601.12215, 2026 <a href="https://arxiv.org/abs/2601.12215" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C2] HiMAE: Hierarchical masked autoencoders discover resolution-specific structure in wearable time series</div>
+<div class="publication-title">[C6] HiMAE: Hierarchical masked autoencoders discover resolution-specific structure in wearable time series</div>
 <div class="publication-authors">S. Lee, C. Tanade, H. Zhou, J. Lee, M. Thukral, M. Han, R. Choi, <strong>Li Zhu</strong>, et al.</div>
 <div class="publication-venue">International Conference on Learning Representations (ICLR), 2026 <a href="https://arxiv.org/abs/2510.25785" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C3] Towards Cardiac Output Estimation Using Earbud Photoplethysmography Sensor</div>
+<div class="publication-title">[C7] Towards Cardiac Output Estimation Using Earbud Photoplethysmography Sensor</div>
 <div class="publication-authors">L. Zhang, M. M. Rahman, M. B. Morshed, <strong>Li Zhu</strong>, H. Zhou, J. O'Bryan, W. B. Mendes, J. Kuang</div>
 <div class="publication-venue">IEEE EMBC, 2025</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C4] Precise Opening Detection of Heart Aortic Valve Towards Noninvasive Continuous Blood Pressure Detection</div>
+<div class="publication-title">[C8] Precise Opening Detection of Heart Aortic Valve Towards Noninvasive Continuous Blood Pressure Detection</div>
 <div class="publication-authors"><strong>Li Zhu</strong>, M. B. Morshed, J.-O. Hahn, M. M. Rahman, S. Desai</div>
 <div class="publication-venue">IEEE EMBC, 2025</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C5] Optimizing Biomarkers from Earbud Ballistocardiogram: Calibration and Calibration-Free Algorithms</div>
+<div class="publication-title">[C9] Optimizing Biomarkers from Earbud Ballistocardiogram: Calibration and Calibration-Free Algorithms</div>
 <div class="publication-authors">Y. Li, M. M. Rahman, M. B. Morshed, M. S. Islam, H. Zhou, W. Wang, H. Ernst, <strong>Li Zhu</strong>, J. Kuang</div>
 <div class="publication-venue">IEEE ICASSP, 2025</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C6] Evaluation of Wearable Head BCG for PTT Measurement in Blood Pressure Intervention</div>
+<div class="publication-title">[C10] Evaluation of Wearable Head BCG for PTT Measurement in Blood Pressure Intervention</div>
 <div class="publication-authors">W. Wang, <strong>Li Zhu</strong>, M. B. Morshed, M. M. Rahman, J. Bae, J. Kuang</div>
 <div class="publication-venue">IEEE ICASSP, 2025</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C7] Enhance Heart Rate Measurement from Remote PPG with Head Motion Awareness</div>
+<div class="publication-title">[C11] Enhance Heart Rate Measurement from Remote PPG with Head Motion Awareness</div>
 <div class="publication-authors">J. Li, K. Vatanparvar, M. Gwak, <strong>Li Zhu</strong>, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE EMBC, 2024 <a href="https://ieeexplore.ieee.org/document/10782369/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C8] Multimodal breathing rate estimation using facial motion and rPPG from RGB camera</div>
+<div class="publication-title">[C12] Multimodal breathing rate estimation using facial motion and rPPG from RGB camera</div>
 <div class="publication-authors">M. Gwak, K. Vatanparvar, <strong>Li Zhu</strong>, N. Rashid, M. Ahmed, J. Bae, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE ICASSP, 2024 <a href="https://ieeexplore.ieee.org/document/10446086/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C9] Freq2time: Weakly supervised learning of camera-based rPPG from heart rate</div>
+<div class="publication-title">[C13] Freq2time: Weakly supervised learning of camera-based rPPG from heart rate</div>
 <div class="publication-authors">J. Speth, K. Vatanparvar, <strong>Li Zhu</strong>, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE ICASSP, 2024 <a href="https://ieeexplore.ieee.org/document/10446054/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C10] Heart rate variability estimation with dynamic fine filtering and global-local context outlier removal</div>
+<div class="publication-title">[C14] Heart rate variability estimation with dynamic fine filtering and global-local context outlier removal</div>
 <div class="publication-authors">R. K. Sah, M. M. Rahman, V. Nathan, <strong>Li Zhu</strong>, J. Bae, C. Rosa, W. B. Mendes, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE ICASSP, 2024 <a href="https://ieeexplore.ieee.org/document/10447778/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C11] Core body temperature and its role in detecting acute stress</div>
+<div class="publication-title">[C15] Core body temperature and its role in detecting acute stress</div>
 <div class="publication-authors">M. B. Morshed, M. M. Rahman, V. Nathan, <strong>Li Zhu</strong>, J. Bae, C. Rosa, W. B. Mendes, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE ICASSP, 2024 <a href="https://ieeexplore.ieee.org/document/10447599/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C12] Ballistocardiogram-based heart rate variability estimation for stress monitoring using consumer earbuds</div>
+<div class="publication-title">[C16] Ballistocardiogram-based heart rate variability estimation for stress monitoring using consumer earbuds</div>
 <div class="publication-authors">D. J. Lin, M. M. Rahman, <strong>Li Zhu</strong>, V. Nathan, J. Bae, C. Rosa, W. B. Mendes, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE ICASSP, 2024 <a href="https://ieeexplore.ieee.org/document/10447280/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C13] Normalization is all you need: Robust full-range contactless SpO2 estimation across users</div>
+<div class="publication-title">[C17] Normalization is all you need: Robust full-range contactless SpO2 estimation across users</div>
 <div class="publication-authors">Q. Shao, <strong>Li Zhu</strong>, M. Ahmed, K. Vatanparvar, M. Gwak, N. Rashid, J. Bae, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE ICASSP, 2024 <a href="https://ieeexplore.ieee.org/document/10446435/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C14] Advancements in Face Alignment Evaluation for Contact-less Vital Sign Detection</div>
+<div class="publication-title">[C18] Advancements in Face Alignment Evaluation for Contact-less Vital Sign Detection</div>
 <div class="publication-authors">J. Li, R. L. Barmaki, <strong>Li Zhu</strong>, K. Vatanparvar, M. Gwak, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE BSN, 2023 <a href="https://ieeexplore.ieee.org/document/10331175/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C15] Estimating SpO2 with Deep Oxygen Desaturations from Facial Video</div>
+<div class="publication-title">[C19] Estimating SpO2 with Deep Oxygen Desaturations from Facial Video</div>
 <div class="publication-authors">M. Chan, <strong>Li Zhu</strong>, K. Vatanparvar, M. Gwak, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE EMBC, 2023 <a href="https://ieeexplore.ieee.org/document/10340025/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C16] Contactless monitoring of respiratory rate and breathing absence from head movements</div>
+<div class="publication-title">[C20] Contactless monitoring of respiratory rate and breathing absence from head movements</div>
 <div class="publication-authors">M. Gwak, K. Vatanparvar, <strong>Li Zhu</strong>, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE EMBC, 2023 <a href="https://ieeexplore.ieee.org/document/10340590/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C17] Enhanced Contactless Heart Rate Monitoring with Motion Artifact Removal</div>
+<div class="publication-title">[C21] Enhanced Contactless Heart Rate Monitoring with Motion Artifact Removal</div>
 <div class="publication-authors">K. Vatanparvar, J. Li, M. Gwak, <strong>Li Zhu</strong>, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE EMBC, 2023 <a href="https://ieeexplore.ieee.org/document/10340279/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C18] Improving heart rate and heart rate variability estimation from video</div>
+<div class="publication-title">[C22] Improving heart rate and heart rate variability estimation from video</div>
 <div class="publication-authors">M. Chan, <strong>Li Zhu</strong>, K. Vatanparvar, H. Jung, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE ICASSP, 2023 <a href="https://ieeexplore.ieee.org/document/10096576/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C19] Respiration rate estimation from remote PPG via camera</div>
+<div class="publication-title">[C23] Respiration rate estimation from remote PPG via camera</div>
 <div class="publication-authors">K. Vatanparvar, M. Gwak, <strong>Li Zhu</strong>, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE BSN, 2022 <a href="https://ieeexplore.ieee.org/document/9928485/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C20] Enhancement of remote PPG and heart rate estimation with optimal signal quality index</div>
+<div class="publication-title">[C24] Enhancement of remote PPG and heart rate estimation with optimal signal quality index</div>
 <div class="publication-authors">J. Li, K. Vatanparvar, <strong>Li Zhu</strong>, M. Gwak, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE BSN, 2022 <a href="https://ieeexplore.ieee.org/document/9928503/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C21] Contactless SpO2 Detection from Face Using Consumer Camera</div>
+<div class="publication-title">[C25] Contactless SpO2 Detection from Face Using Consumer Camera</div>
 <div class="publication-authors"><strong>Li Zhu</strong>, K. Vatanparvar, M. Gwak, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE BSN, 2022 <a href="https://ieeexplore.ieee.org/document/9928509/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C22] Remote photoplethysmography and heart rate estimation by dynamic region of interest tracking</div>
+<div class="publication-title">[C26] Remote photoplethysmography and heart rate estimation by dynamic region of interest tracking</div>
 <div class="publication-authors">W. Wei, K. Vatanparvar, <strong>Li Zhu</strong>, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE EMBC, 2022 <a href="https://ieeexplore.ieee.org/document/9871722/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C23] Device Invariant Deep Neural Networks for Pulmonary Audio Event Detection</div>
+<div class="publication-title">[C27] Device Invariant Deep Neural Networks for Pulmonary Audio Event Detection</div>
 <div class="publication-authors">M. Ahmed, <strong>Li Zhu</strong>, M. Rahman, T. Ahmed, J. Kuang, A. Gao</div>
 <div class="publication-venue">IEEE EMBC, 2021 <a href="https://ieeexplore.ieee.org/document/9629853/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C24] Better Battery Life: Towards Energy-Efficient Smartwatch-Based Atrial Fibrillation Detection</div>
+<div class="publication-title">[C28] Better Battery Life: Towards Energy-Efficient Smartwatch-Based Atrial Fibrillation Detection</div>
 <div class="publication-authors">H. Zhang, <strong>Li Zhu</strong>, V. Nathan, J. Kuang, J. Kim, A. Gao</div>
 <div class="publication-venue">IEEE BSN, 2021 <a href="https://ieeexplore.ieee.org/document/9507025/" target="_blank">[Paper]</a></div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C25] Photoplethysmography-based blood pressure estimation using deep learning</div>
+<div class="publication-title">[C29] Photoplethysmography-based blood pressure estimation using deep learning</div>
 <div class="publication-authors">W. Wang, <strong>Li Zhu</strong>, F. Marefat, P. Mohseni, K. Kilgore, L. Najafizadeh</div>
 <div class="publication-venue">54th Asilomar Conference, IEEE, 2020</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C26] Identifying task-related brain functional states via cortical networks</div>
+<div class="publication-title">[C30] Identifying task-related brain functional states via cortical networks</div>
 <div class="publication-authors">S. Salsabilian, <strong>Li Zhu</strong>, C. R. Lee, D. J. Margolis, L. Najafizadeh</div>
 <div class="publication-venue">IEEE ISCAS, 2020</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C27] Identifying Dynamics of Brain Function Via Boolean Matrix Factorization</div>
+<div class="publication-title">[C31] Identifying Dynamics of Brain Function Via Boolean Matrix Factorization</div>
 <div class="publication-authors">A. Haddad, F. Shamsi, <strong>Li Zhu</strong>, L. Najafizadeh</div>
 <div class="publication-venue">52nd Asilomar Conference, IEEE, 2018</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C28] Spatiotemporal Characterization of Brain Function Via Multiplex Visibility Graph</div>
+<div class="publication-title">[C32] Spatiotemporal Characterization of Brain Function Via Multiplex Visibility Graph</div>
 <div class="publication-authors"><strong>Li Zhu</strong>, S. Haghani, L. Najafizadeh</div>
 <div class="publication-venue">OSA Technical Digest, Hollywood, FL, 2018</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C29] Probing the Dynamics of Resting-State Cortical Activities via Wide Field Ca+2 Imaging <span style="color: #8B0000;">(Invited)</span></div>
+<div class="publication-title">[C33] Probing the Dynamics of Resting-State Cortical Activities via Wide Field Ca+2 Imaging <span style="color: #8B0000;">(Invited)</span></div>
 <div class="publication-authors"><strong>Li Zhu</strong>, C. Lee, D. Margolis, L. Najafizadeh</div>
 <div class="publication-venue">SPIE-Optics and Photonics, 2017</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C30] Predicting Behavior from Cortical Activity Recorded through Widefield Transcranial Imaging</div>
+<div class="publication-title">[C34] Predicting Behavior from Cortical Activity Recorded through Widefield Transcranial Imaging</div>
 <div class="publication-authors"><strong>Li Zhu</strong>, C. R. Lee, D. J. Margolis, L. Najafizadeh</div>
 <div class="publication-venue">CLEO, San Jose, CA, 2017</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C31] Assessing Optimal Electrode/Optode Arrangement in EEG-fNIRS Multi-Modal Imaging</div>
+<div class="publication-title">[C35] Assessing Optimal Electrode/Optode Arrangement in EEG-fNIRS Multi-Modal Imaging</div>
 <div class="publication-authors"><strong>Li Zhu</strong>, A. Haddad, T. Zeng, Y. Wang, L. Najafizadeh</div>
 <div class="publication-venue">OSA Technical Digest, Fort Lauderdale, FL, 2016</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C32] Temporal Dynamics of fNIRS-Recorded Signals Revealed Via Visibility Graph</div>
+<div class="publication-title">[C36] Temporal Dynamics of fNIRS-Recorded Signals Revealed Via Visibility Graph</div>
 <div class="publication-authors"><strong>Li Zhu</strong> and L. Najafizadeh</div>
 <div class="publication-venue">OSA Technical Digest, Fort Lauderdale, FL, 2016</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C33] On the Relationship Between Trial-to-Trial Response Time Variability and fNIRS-Based Functional Connectivity</div>
+<div class="publication-title">[C37] On the Relationship Between Trial-to-Trial Response Time Variability and fNIRS-Based Functional Connectivity</div>
 <div class="publication-authors">T. Zeng, <strong>Li Zhu</strong>, Y. Wang, L. Najafizadeh</div>
 <div class="publication-venue">OSA Technical Digest, Fort Lauderdale, FL, 2016</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C34] Does brain functional connectivity alter across similar trials during imaging experiments?</div>
+<div class="publication-title">[C38] Does brain functional connectivity alter across similar trials during imaging experiments?</div>
 <div class="publication-authors"><strong>Li Zhu</strong> and L. Najafizadeh</div>
 <div class="publication-venue">IEEE SPMB, Philadelphia, PA, 2014</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C35] A Low Temperature Coefficient Voltage Reference Utilizing BiCMOS Compensation Technique <span style="color: #8B0000; font-weight: bold;">[Best Paper Runner-Up]</span></div>
+<div class="publication-title">[C39] A Low Temperature Coefficient Voltage Reference Utilizing BiCMOS Compensation Technique <span style="color: #8B0000; font-weight: bold;">[Best Paper Runner-Up]</span></div>
 <div class="publication-authors">Y. Huang, <strong>Li Zhu</strong>, C. Cheung, L. Najafizadeh</div>
 <div class="publication-venue">IEEE ISCAS, Melbourne, 2014</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C36] A Curvature-Compensation Technique Based on the Difference of Si and SiGe Junction Voltages</div>
+<div class="publication-title">[C40] A Curvature-Compensation Technique Based on the Difference of Si and SiGe Junction Voltages</div>
 <div class="publication-authors">Y. Huang, <strong>Li Zhu</strong>, C. Cheung, L. Najafizadeh</div>
 <div class="publication-venue">IEEE ISCAS, Melbourne, 2014</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C37] Towards Improving the 'Detection' Power of Brain Imaging Experiments Using fNIRS</div>
+<div class="publication-title">[C41] Towards Improving the 'Detection' Power of Brain Imaging Experiments Using fNIRS</div>
 <div class="publication-authors"><strong>Li Zhu</strong>, M. Peifer, L. Najafizadeh</div>
 <div class="publication-venue">OSA Technical Digest, Miami, FL, 2014</div>
 </div>
 
 <div class="publication">
-<div class="publication-title">[C38] Real-time Classification of Finger Tapping vs Imaginary Finger Tapping Using NIRS Data</div>
+<div class="publication-title">[C42] Real-time Classification of Finger Tapping vs Imaginary Finger Tapping Using NIRS Data</div>
 <div class="publication-authors">M. Peifer, <strong>Li Zhu</strong>, L. Najafizadeh</div>
 <div class="publication-venue">OSA Technical Digest, Miami, FL, 2014</div>
 </div>

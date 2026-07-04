@@ -3,7 +3,7 @@ title = "Curriculum Vitae"
 subtitle = "Li Zhu, Ph.D."
 +++
 
-**Google Scholar:** Citations: 510 | h-index: 12 | i10-index: 15
+**Google Scholar:** Citations: 626 | h-index: 14 | i10-index: 20
 
 ---
 
