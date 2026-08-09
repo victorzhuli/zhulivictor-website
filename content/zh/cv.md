@@ -15,7 +15,7 @@ subtitle = "朱立 博士"
 <div class="timeline-date">2026 – 至今</div>
 <h3 class="timeline-title">首席工程师，AI/ML软件</h3>
 <div class="timeline-subtitle">亚德诺半导体（Analog Devices, Inc.），加州圣何塞</div>
-<p>负责下一代健康传感与时序推理系统的AI/ML软件研发。</p>
+<p>负责AI/ML软件研发，专注于智能体AI，开发时序推理模型以连接物理世界感知与数字世界推理。</p>
 </div>
 
 <div class="timeline-item">

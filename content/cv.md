@@ -15,7 +15,7 @@ subtitle = "Li Zhu, Ph.D."
 <div class="timeline-date">2026 – Present</div>
 <h3 class="timeline-title">Principal Engineer, AI/ML Software</h3>
 <div class="timeline-subtitle">Analog Devices, Inc., San Jose, CA</div>
-<p>Leading AI/ML software development for next-generation health sensing and time-series reasoning systems.</p>
+<p>Leading AI/ML software development with a focus on agentic AI, developing time-series reasoning models to bridge physical-world sensing with digital-world reasoning.</p>
 </div>
 
 <div class="timeline-item">
