@@ -3,7 +3,7 @@ title = "论文发表"
 subtitle = "50+ 论文 | 15+ 专利"
 +++
 
-[Google Scholar](https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en) | 引用次数：626 | h-index：14 | i10-index：20
+[Google Scholar](https://scholar.google.com/citations?user=D0V4hEYAAAAJ&hl=en) | 引用次数：656 | h-index：14 | i10-index：22
 
 ---
 

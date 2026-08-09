@@ -3,7 +3,7 @@ title = "个人简历"
 subtitle = "朱立 博士"
 +++
 
-**Google Scholar：** 被引626次 | h指数：14 | i10指数：20
+**Google Scholar：** 被引656次 | h指数：14 | i10指数：22
 
 ---
 
@@ -12,7 +12,14 @@ subtitle = "朱立 博士"
 <div class="timeline">
 
 <div class="timeline-item">
-<div class="timeline-date">2019 – 至今</div>
+<div class="timeline-date">2026 – 至今</div>
+<h3 class="timeline-title">首席工程师，AI/ML软件</h3>
+<div class="timeline-subtitle">亚德诺半导体（Analog Devices, Inc.），加州圣何塞</div>
+<p>负责下一代健康传感与时序推理系统的AI/ML软件研发。</p>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2019 – 2026</div>
 <h3 class="timeline-title">资深研究工程师 II</h3>
 <div class="timeline-subtitle">三星美国研究院，加州山景城</div>
 <p>负责智能可穿戴设备与数字健康领域的算法研发，涵盖从原型验证到临床试验的完整研发流程。</p>
@@ -119,6 +126,8 @@ subtitle = "朱立 博士"
 <span class="tag">计算机视觉</span>
 <span class="tag">生物医学信号处理</span>
 <span class="tag">PPG/心电信号分析</span>
+<span class="tag">智能体AI</span>
+<span class="tag">时序推理建模</span>
 <span class="tag">可穿戴传感器</span>
 <span class="tag">功能性近红外光谱</span>
 <span class="tag">脑电图</span>

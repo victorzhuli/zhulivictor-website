@@ -3,7 +3,7 @@ title = "Curriculum Vitae"
 subtitle = "Li Zhu, Ph.D."
 +++
 
-**Google Scholar:** Citations: 626 | h-index: 14 | i10-index: 20
+**Google Scholar:** Citations: 656 | h-index: 14 | i10-index: 22
 
 ---
 
@@ -12,10 +12,17 @@ subtitle = "Li Zhu, Ph.D."
 <div class="timeline">
 
 <div class="timeline-item">
-<div class="timeline-date">2019 – Present</div>
+<div class="timeline-date">2026 – Present</div>
+<h3 class="timeline-title">Principal Engineer, AI/ML Software</h3>
+<div class="timeline-subtitle">Analog Devices, Inc., San Jose, CA</div>
+<p>Leading AI/ML software development for next-generation health sensing and time-series reasoning systems.</p>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2019 – 2026</div>
 <h3 class="timeline-title">Staff Research Engineer II</h3>
 <div class="timeline-subtitle">Samsung Research America, Mountain View, CA</div>
-<p>Lead AI-driven innovation at the intersection of wearable sensing and real-world health monitoring, delivering solutions from prototyping to clinical validation.</p>
+<p>Led AI-driven innovation at the intersection of wearable sensing and real-world health monitoring, delivering solutions from prototyping to clinical validation.</p>
 <ul>
 <li><strong>Cuffless Blood Pressure Monitoring:</strong> Led ML-based BP estimation using ear-worn PPG and inertial sensors</li>
 <li><strong>Contactless Vital Sign Monitoring:</strong> Developed AI models to estimate heart rate, respiration, and SpO2 from facial video</li>
@@ -118,7 +125,10 @@ Advisor: Professor Laleh Najafizadeh</p>
 <span class="tag">Python</span>
 <span class="tag">Computer Vision</span>
 <span class="tag">Signal Processing</span>
+<span class="tag">Time Series Analysis</span>
 <span class="tag">PPG/ECG Analysis</span>
+<span class="tag">Agentic AI</span>
+<span class="tag">Time-Series Reasoning</span>
 <span class="tag">Wearable Sensors</span>
 <span class="tag">fNIRS</span>
 <span class="tag">EEG</span>
