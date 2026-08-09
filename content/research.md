@@ -42,7 +42,7 @@ Applying machine learning and deep learning to wearable sensing and health monit
 
 <div class="card">
 <h3>Advanced Bio-sensing Earbuds</h3>
-<p>Spearheaded transcranial vagus nerve stimulation in earbud form factor for stress detection and neural intervention.</p>
+<p>Spearheaded transcutaneous auricular vagus nerve stimulation (taVNS) in earbud form factor for stress detection and neural intervention.</p>
 </div>
 
 </div>
