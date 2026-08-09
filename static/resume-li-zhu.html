@@ -31,6 +31,7 @@
   }
   .contact a { color: #333; text-decoration: none; }
   h2 {
+    break-after: avoid;
     font-size: 11.5pt;
     font-weight: 700;
     text-transform: uppercase;
@@ -40,17 +41,9 @@
     margin-top: 14pt;
     margin-bottom: 8pt;
   }
-  .entry { margin-bottom: 10pt; }
-  .entry-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-  }
+  .entry { margin-bottom: 10pt; break-inside: avoid; }
   .entry-title { font-weight: 700; font-size: 10.5pt; }
-  .entry-date { font-style: italic; font-size: 10pt; white-space: nowrap; }
   .entry-org {
-    display: flex;
-    justify-content: space-between;
     font-style: italic;
     font-size: 10pt;
     color: #333;
@@ -78,8 +71,9 @@
 
 <h1>Li Zhu, Ph.D.</h1>
 <div class="contact">
-  zhulivictor@gmail.com &nbsp;|&nbsp; Saratoga, CA &nbsp;|&nbsp;
-  linkedin.com/in/victorlizhu &nbsp;|&nbsp; www.zhulivictor.com
+  <a href="mailto:zhulivictor@gmail.com">zhulivictor@gmail.com</a> &nbsp;|&nbsp; Saratoga, CA &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/victorlizhu">linkedin.com/in/victorlizhu</a> &nbsp;|&nbsp;
+  <a href="https://www.zhulivictor.com">www.zhulivictor.com</a>
 </div>
 
 <h2>Employment</h2>
@@ -87,10 +81,9 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Principal Engineer, AI/ML Software</span>
-    <span class="entry-date">March 2026 &ndash; Present</span>
   </div>
   <div class="entry-org">
-    <span>Analog Devices, Inc., San Jose, CA</span>
+    <span>Analog Devices, Inc., San Jose, CA &nbsp;|&nbsp; March 2026 &ndash; Present</span>
   </div>
   <ul>
     <li>Lead AI/ML software development, with focus on agentic AI</li>
@@ -101,10 +94,9 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Staff Research Engineer II</span>
-    <span class="entry-date">2019 &ndash; March 2026</span>
   </div>
   <div class="entry-org">
-    <span>Samsung Research America, Mountain View, CA</span>
+    <span>Samsung Research America, Mountain View, CA &nbsp;|&nbsp; 2019 &ndash; March 2026</span>
   </div>
   <ul>
     <li>Led AI-driven R&amp;D in wearable sensing and digital health, delivering solutions from prototyping through clinical validation</li>
@@ -119,10 +111,9 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Data Scientist</span>
-    <span class="entry-date">2018 &ndash; 2019</span>
   </div>
   <div class="entry-org">
-    <span>AlayaTec, Inc., Palo Alto, CA</span>
+    <span>AlayaTec, Inc., Palo Alto, CA &nbsp;|&nbsp; 2018 &ndash; 2019</span>
   </div>
   <ul>
     <li>Developed predictive ML models from functional brain imaging (scalp/ear EEG) for neural and behavioral data analysis</li>
@@ -132,10 +123,9 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Research Intern</span>
-    <span class="entry-date">2016</span>
   </div>
   <div class="entry-org">
-    <span>Siemens Healthineers, Princeton, NJ</span>
+    <span>Siemens Healthineers, Princeton, NJ &nbsp;|&nbsp; 2016</span>
   </div>
   <ul>
     <li>IARPA Knowledge Representation in Neural Systems &mdash; Contributed to analytic frameworks using MEG for neural decoding</li>
@@ -145,24 +135,22 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Research &amp; Teaching Assistant</span>
-    <span class="entry-date">2013 &ndash; 2018</span>
   </div>
   <div class="entry-org">
-    <span>Rutgers University, New Brunswick, NJ</span>
+    <span>Rutgers University, New Brunswick, NJ &nbsp;|&nbsp; 2013 &ndash; 2018</span>
   </div>
   <ul>
     <li>Integrated Systems and NeuroImaging Laboratory &mdash; Developed computational methods for predicting behavior from neuroimaging data</li>
-    <li>Published 7 journal articles and 15+ conference papers on fNIRS signal processing, brain network analysis, and circuit design</li>
+    <li>Published 4 journal articles and 15+ conference papers on fNIRS signal processing, brain network analysis, and circuit design</li>
   </ul>
 </div>
 
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">R&amp;D Manager of Electrical Engineering</span>
-    <span class="entry-date">2008 &ndash; 2013</span>
   </div>
   <div class="entry-org">
-    <span>Grandbeing Technology Co. Ltd., Shenzhen, China</span>
+    <span>Grandbeing Technology Co. Ltd., Shenzhen, China &nbsp;|&nbsp; 2008 &ndash; 2013</span>
   </div>
   <ul>
     <li>Led system-level hardware design and R&amp;D for professional-grade digital audio/video distribution systems</li>
@@ -173,10 +161,9 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Electrical Engineer</span>
-    <span class="entry-date">2004 &ndash; 2008</span>
   </div>
   <div class="entry-org">
-    <span>Skyworth Research Institute, Shenzhen, China</span>
+    <span>Skyworth Research Institute, Shenzhen, China &nbsp;|&nbsp; 2004 &ndash; 2008</span>
   </div>
   <ul>
     <li>High Definition Display Research Group &mdash; Led full hardware development lifecycle for CRT and LCD television products</li>
@@ -188,10 +175,9 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Ph.D., Electrical and Computer Engineering</span>
-    <span class="entry-date">October 2018</span>
   </div>
   <div class="entry-org">
-    <span>Rutgers, The State University of New Jersey</span>
+    <span>Rutgers, The State University of New Jersey &nbsp;|&nbsp; October 2018</span>
   </div>
   <ul>
     <li>Dissertation: <em>Computational Methods for Predicting Behavior from Neuroimaging Data</em></li>
@@ -202,7 +188,6 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Certificate in Project Management</span>
-    <span class="entry-date"></span>
   </div>
   <div class="entry-org">
     <span>Stanford University</span>
@@ -212,26 +197,24 @@
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">M.S., Electronics and Communication Engineering</span>
-    <span class="entry-date">June 2008</span>
   </div>
   <div class="entry-org">
-    <span>Huazhong University of Science and Technology, China</span>
+    <span>Huazhong University of Science and Technology, China &nbsp;|&nbsp; June 2008</span>
   </div>
 </div>
 
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">B.S., Information Engineering</span>
-    <span class="entry-date">June 2004</span>
   </div>
   <div class="entry-org">
-    <span>Wuhan University of Technology, China</span>
+    <span>Wuhan University of Technology, China &nbsp;|&nbsp; June 2004</span>
   </div>
 </div>
 
 <h2>Honors &amp; Awards</h2>
 <ul>
-  <li><strong>SRA President's Award</strong> &mdash; Samsung Research America (2020, 2025)</li>
+  <li><strong>President's Award</strong> &mdash; Samsung Research America (2020, 2025)</li>
   <li><strong>A1 Patent Inventor Award</strong> &mdash; Samsung Research America (2023, 2024)</li>
   <li><strong>ECE Graduate Program Academic Achievement Award</strong> &mdash; Rutgers University (2020)</li>
   <li><strong>Best Student Paper Award (Runner Up)</strong> &mdash; IEEE ISCAS 2014, among 600+ accepted papers</li>
@@ -242,16 +225,16 @@
 <h2>Skills</h2>
 <div class="skills-list">
   <strong>AI/ML:</strong> Machine Learning, Deep Learning, Agentic AI, Time-Series Reasoning, Foundation Models, PyTorch, TensorFlow<br>
-  <strong>Signal Processing:</strong> Biomedical Signal Processing, PPG/ECG Analysis, Computer Vision, rPPG, Time Series Analysis<br>
+  <strong>Signal Processing:</strong> Biomedical Signal Processing, PPG/ECG Analysis, Computer Vision, rPPG, Time-Series Analysis<br>
   <strong>Domain:</strong> Wearable Sensors, Digital Health, Clinical Validation, fNIRS, EEG<br>
-  <strong>Languages:</strong> Python, C/C++, MATLAB
+  <strong>Programming Languages:</strong> Python, C/C++, MATLAB
 </div>
 
 <h2>Publications &amp; Patents</h2>
 <div class="skills-list">
-  50+ publications at top-tier venues (ICML, ICLR, ICASSP, EMBC, IEEE JBHI, UbiComp) &nbsp;|&nbsp; 14 US patents (3 granted)<br>
-  Google Scholar: 656 citations &nbsp;|&nbsp; h-index: 14 &nbsp;|&nbsp; i10-index: 22<br>
-  Full list: www.zhulivictor.com/publications
+  3 granted US patents and 11 pending applications &nbsp;|&nbsp; 47 peer-reviewed publications &mdash; IEEE ICASSP, EMBC, BSN, JBHI, ACM UbiComp, ICML, ICLR<br>
+  Google Scholar (as of August 2026): 656 citations, h-index 14, i10-index 22<br>
+  Full list: <a href="https://www.zhulivictor.com/publications">www.zhulivictor.com/publications</a> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=D0V4hEYAAAAJ">Google Scholar</a>
 </div>
 
 </body>

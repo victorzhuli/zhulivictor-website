@@ -26,7 +26,7 @@ subtitle = "Li Zhu, Ph.D."
 <ul>
 <li><strong>Cuffless Blood Pressure Monitoring:</strong> Led ML-based BP estimation using ear-worn PPG and inertial sensors</li>
 <li><strong>Contactless Vital Sign Monitoring:</strong> Developed AI models to estimate heart rate, respiration, and SpO2 from facial video</li>
-<li><strong>AFib Burden Estimation:</strong> Led smartwatch-based AFib monitoring; published cover-featured study in IEEE JBHI (2023)</li>
+<li><strong>AFib Burden Estimation:</strong> Led smartwatch-based AFib monitoring; published cover-featured study in IEEE JBHI (2021)</li>
 <li><strong>Advanced Bio-sensing:</strong> Spearheaded transcutaneous auricular vagus nerve stimulation (taVNS) in earbud form factor</li>
 </ul>
 </div>
